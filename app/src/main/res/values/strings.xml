@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MONTEE PAYMENT</string>
+    <string name="scan_qr_code">SCAN QR CODE</string>
+    <string name="pay">PAY</string>
+    <string name="to">To:</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+</resources>
